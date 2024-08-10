@@ -1,3 +1,5 @@
+![Alt text](english-terminal.png)
+
 # english-terminal
 
 openAI powered terminal. write commands in english and get the output in terminal.
