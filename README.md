@@ -17,7 +17,7 @@ english> list running containers
 
 # Installation:
 1) download english executable and copy it in a path and reference it in your PATH variable.
-2) In command type english. You should see english> prompt.
+2) In your terminal type english. You should see english> prompt.
 
 
 # Usage:
@@ -27,7 +27,8 @@ OPENAI_API_KEY should be set in environment variables.
 # Modes: 
 ? (Answer only)
 english> ?<command in english>
-only displays the command, doesnt run
+only displays the command, doesnt run.
+
 Example: 
 ```
 english>? is port 1234 taken
