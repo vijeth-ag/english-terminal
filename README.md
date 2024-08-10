@@ -1,4 +1,4 @@
-![Alt text](english-terminal.png){ width=60% }
+![Alt text](english-terminal.png)
 
 # english-terminal
 
