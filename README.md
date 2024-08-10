@@ -1,4 +1,4 @@
-![Alt text](english-terminal.png)
+![Alt text](english-terminal.png){ width=60% }
 
 # english-terminal
 
@@ -19,11 +19,8 @@ english> list running containers
 
 # Installation:
 1) download english executable and copy it in a path and reference it in your PATH variable.
-2) In your terminal type english. You should see english> prompt.
-
-
-# Usage:
-OPENAI_API_KEY should be set in environment variables.
+2) OPENAI_API_KEY should be set in environment variables.
+3) Usage :  type english in your terminal. You should see a english> prompt.
 
 
 # Modes: 
